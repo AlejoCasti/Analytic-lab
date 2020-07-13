@@ -1,5 +1,11 @@
 # AnalyticLab
 
+Web page that generates statistics, shows the location and organizes business data.
+Developed with: Angular, bootstrap, API usage.
+Deployed in: Analyticlab.herokuapp.com
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.2.
 
 ## Development server
