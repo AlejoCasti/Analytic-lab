@@ -1,8 +1,8 @@
 # AnalyticLab
 
-Web page that generates statistics, shows the location and organizes business data.
-Developed with: Angular, bootstrap, API usage.
-Deployed in: Analyticlab.herokuapp.com
+Web page that generates statistics, shows the location and organizes business data.</br>
+Developed with: Angular, bootstrap, API usage.</br>
+Deployed in: Analyticlab.herokuapp.com</br>
 
 
 
